@@ -17,7 +17,7 @@ Um script simples que usa o modelo `pysentimiento/bertweet-pt-sentiment` da Hugg
 ### O que o código faz:
 - Recebe uma frase digitada pelo usuário 🧍‍♂️  
 - Analisa o sentimento usando IA 🤖  
-- Retorna a **classificação (POSITIVO, NEGATIVO ou NEUTRO)** e o **nível de confiança** 🎯  
+- Retorna a **classificação (POSITIVO, NEGATIVO ou NEUTRO)** e o **nível de confiança (Pontuação)**  
 
 Quer ver funcionando agora mesmo?  
 👉 **[Abrir o Analisador de Sentimentos no Google Colab](https://colab.research.google.com/drive/1_YHQF2eUSwjSb6W5LCafGRcJIN3SuJTe?usp=sharing)**
