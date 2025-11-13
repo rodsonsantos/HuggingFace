@@ -7,27 +7,22 @@ A ideia é aprender e explorar o poder dos modelos pré-treinados em **portuguê
 
 ---
 
-### 🕹️ Links Rápidos para testar!
+### 🚀 Teste Agora no Google Colab
 
-### 💬 Projeto: Analisador de Sentimentos
+### 💬 Projeto: Analisador de Sentimentos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_YHQF2eUSwjSb6W5LCafGRcJIN3SuJTe?usp=sharing)
 
-### Descrição:
+### 🧩 Descrição:
 Um script simples que usa o modelo `pysentimiento/bertweet-pt-sentiment` da Hugging Face para analisar o sentimento de frases e avaliações.
 
-### O que o código faz:
+### ⚙️ O que o código faz:
 - Recebe uma frase digitada pelo usuário 🧍‍♂️  
 - Analisa o sentimento usando IA 🤖  
 - Retorna a **classificação (POSITIVO, NEGATIVO ou NEUTRO)** e o **nível de confiança (Pontuação)**  
 
-Quer ver funcionando agora mesmo?  
-👉 **[Abrir o Analisador de Sentimentos no Google Colab](https://colab.research.google.com/drive/1_YHQF2eUSwjSb6W5LCafGRcJIN3SuJTe?usp=sharing)**
-
-Basta abrir o link e clicar em ▶️ **Executar tudo**!  
-Você poderá digitar qualquer frase e ver o modelo identificar se o sentimento é **positivo**, **negativo** ou **neutro** — tudo em português 🇧🇷
-
 ---
- 
-Espero que gostem! Sinta-se à vontade para dar uma olhada no código-fonte! 🚀
+
+Sinta-se à vontade para dar uma olhada no código-fonte e testar novas ideias! 🚀
+
 
 
 
