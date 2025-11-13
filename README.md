@@ -7,9 +7,9 @@ A ideia é aprender e explorar o poder dos modelos pré-treinados em **portuguê
 
 ---
 
-🕹️ Links Rápidos para testar!
+### 🕹️ Links Rápidos para testar!
 
-## 💬 Projeto: Analisador de Sentimentos
+### 💬 Projeto: Analisador de Sentimentos
 
 ### Descrição:
 Um script simples que usa o modelo `pysentimiento/bertweet-pt-sentiment` da Hugging Face para analisar o sentimento de frases e avaliações.
