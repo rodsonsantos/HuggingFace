@@ -1,37 +1,37 @@
-# 🧠 Analisador de Sentimentos em Português com Hugging Face
+# 🤖 Minha Caixinha de Modelos com Hugging Face! 💬
 
-Este projeto utiliza o modelo **pysentimiento/bertweet-pt-sentiment** da [Hugging Face](https://huggingface.co/pysentimiento/bertweet-pt-sentiment) para identificar automaticamente o **sentimento de textos em português**, classificando-os como **positivo**, **negativo** ou **neutro**.
+👋 Olá!  
+Bem-vindos à minha coleção de **protótipos em Python usando modelos da Hugging Face**!  
+Aqui compartilho meus experimentos com **inteligência artificial**, processamento de linguagem natural e análise de sentimentos — tudo de forma simples e prática. ⚡
 
----
-
-## 🚀 Demonstração Online
-
-Você pode testar o projeto diretamente no Google Colab, sem precisar instalar nada:
-
-👉 **[Abrir no Google Colab](https://colab.research.google.com/drive/1_YHQF2eUSwjSb6W5LCafGRcJIN3SuJTe?usp=sharing)**
+A ideia é aprender e explorar o poder dos modelos pré-treinados em **português**, aplicando-os em projetos úteis e acessíveis para todos.
 
 ---
 
-## 🧩 Funcionalidades
+## 🧠 Teste no Google Colab
 
-- Classificação de sentimentos em **português** 🇧🇷  
-- Retorno da **confiança** (probabilidade) do modelo  
-- Interação via **entrada de texto** pelo terminal ou notebook  
-- Utiliza modelo leve e otimizado da biblioteca **Transformers**
+Quer ver funcionando agora mesmo?  
+👉 **[Abrir o Analisador de Sentimentos no Google Colab](https://colab.research.google.com/drive/1_YHQF2eUSwjSb6W5LCafGRcJIN3SuJTe?usp=sharing)**
 
----
-
-## 🧰 Tecnologias Utilizadas
-
-- [Python 3.10+](https://www.python.org/)
-- [Transformers (Hugging Face)](https://huggingface.co/transformers/)
-- [PyTorch](https://pytorch.org/)
-- [pysentimiento](https://github.com/pysentimiento/pysentimiento)
+Basta abrir o link e clicar em ▶️ **Executar tudo**!  
+Você poderá digitar qualquer frase e ver o modelo identificar se o sentimento é **positivo**, **negativo** ou **neutro** — tudo em português 🇧🇷
 
 ---
 
-# 2️⃣ Instale as dependências
-pip install transformers torch pysentimiento
+## 💬 Projeto: Analisador de Sentimentos
+
+### 🧩 Descrição:
+Um script simples que usa o modelo `pysentimiento/bertweet-pt-sentiment` da Hugging Face para analisar o sentimento de frases e avaliações.
+
+### 🧰 O que o código faz:
+- Recebe uma frase digitada pelo usuário 🧍‍♂️  
+- Analisa o sentimento usando IA 🤖  
+- Retorna a **classificação (POSITIVO, NEGATIVO ou NEUTRO)** e o **nível de confiança** 🎯  
+
+---
+
+Espero que gostem! Sinta-se à vontade para dar uma olhada no código-fonte! 🚀
+
 
 
 
