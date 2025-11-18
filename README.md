@@ -7,17 +7,39 @@ A ideia é aprender e explorar o poder dos modelos pré-treinados em **portuguê
 
 ---
 
-### 🚀 Teste Agora no Google Colab
+## 💬 Projeto 1 — Analisador de Sentimentos  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_YHQF2eUSwjSb6W5LCafGRcJIN3SuJTe?usp=sharing)
 
-### 💬 Projeto: Analisador de Sentimentos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_YHQF2eUSwjSb6W5LCafGRcJIN3SuJTe?usp=sharing)
+### 🧩 Descrição  
+Um script simples que utiliza o modelo `pysentimiento/bertweet-pt-sentiment` para identificar o sentimento de frases em português.
 
-### 🧩 Descrição:
-Um script simples que usa o modelo `pysentimiento/bertweet-pt-sentiment` da Hugging Face para analisar o sentimento de frases e avaliações.
+### ⚙️ Funcionalidades  
+- Entrada de texto digitada pelo usuário 🧍‍♂️  
+- Análise automática via IA 🤖  
+- Retorno do sentimento: **POSITIVO**, **NEGATIVO** ou **NEUTRO**  
+- Exibição do score de confiança  
 
-### ⚙️ O que o código faz:
-- Recebe uma frase digitada pelo usuário 🧍‍♂️  
-- Analisa o sentimento usando IA 🤖  
-- Retorna a **classificação (POSITIVO, NEGATIVO ou NEUTRO)** e o **nível de confiança (Pontuação)**  
+---
+
+## ⭐ Projeto 2 — Classificador de Reclamações (1 a 5 estrelas)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1anwZqIDAhVV0UiDys5LEDszKIJcZA2G3?usp=sharing)
+
+### 🧩 Descrição  
+Este script classifica textos avaliativos (ex.: reclamações ou feedbacks) atribuindo uma nota de **1 a 5 estrelas** com o modelo  
+`nlptown/bert-base-multilingual-uncased-sentiment`.
+
+Ideal para treinar categorização de mensagens em cenários de atendimento ao cliente.
+
+### ⚙️ Funcionalidades  
+- Recebe a reclamação via input  
+- Classifica de **1 ⭐ a 5 ⭐**  
+- Converte a nota em categorias:
+  - **1 ⭐ — ⚠️ Problema Grave**  
+  - **2 ⭐ — ⚠️ Reclamação**  
+  - **3 ⭐ — 😐 Neutro**  
+  - **4 ⭐ — 😊 Satisfeito**  
+  - **5 ⭐ — 🤩 Muito satisfeito / Elogio**  
+- Mostra o score de confiança do modelo  
 
 ---
 
