@@ -1,9 +1,28 @@
-# 🤖 Minha Caixinha de Modelos com Hugging Face! 💬
+# 🤖 Modelos de NLP com Hugging Face (Python)
 
-Bem-vindos à minha coleção de **protótipos em Python usando modelos da Hugging Face**!  
-Aqui compartilho meus experimentos com **inteligência artificial**, processamento de linguagem natural e análise de sentimentos. Tudo de forma simples e prática.
+Repositório dedicado a **experimentos práticos com modelos de Inteligência Artificial e Processamento de Linguagem Natural (NLP)** utilizando a biblioteca **Hugging Face Transformers**.
 
-A ideia é aprender e explorar o poder dos modelos pré-treinados em **português**, aplicando-os em projetos úteis e acessíveis para todos.
+O objetivo é explorar o uso de **modelos pré-treinados**, com foco em aplicações reais, simples e reutilizáveis, especialmente para análise de sentimentos e classificação de textos em português.
+
+Este projeto faz parte do meu portfólio de aprendizado contínuo em **dados, IA aplicada e automação de análises textuais**.
+
+---
+
+## 🎯 Objetivo do Repositório
+
+- Aplicar modelos de NLP pré-treinados em cenários reais 
+- Desenvolver scripts simples, claros e reutilizáveis  
+- Explorar o uso de IA em contextos como atendimento ao cliente e feedbacks  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Python 3**
+- **Hugging Face Transformers**
+- **Modelos BERT pré-treinados**
+- **Google Colab**
+- **VS Code**
 
 ---
 
@@ -42,6 +61,24 @@ Ideal para treinar categorização de mensagens em cenários de atendimento ao c
 - Mostra o score de confiança do modelo  
 
 ---
+
+## 📌 Considerações Finais
+
+Este repositório demonstra minha capacidade de:
+
+- Utilizar modelos de IA pré-treinados
+- Aplicar NLP em problemas reais
+- Interpretar resultados de modelos de linguagem
+- Criar soluções simples e funcionais com Python
+
+Os projetos aqui apresentados servem como base para futuras integrações com **pipelines de dados, APIs, bancos de dados e sistemas de atendimento**.
+
+---
+
+## 📬 Contato
+
+- LinkedIn: https://www.linkedin.com/in/rodsonsantos/  
+- GitHub: https://github.com/rodsonsantos
 
 Sinta-se à vontade para dar uma olhada no código-fonte e testar novas ideias! 🚀
 
